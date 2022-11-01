@@ -2,6 +2,7 @@
 
 # dependencies
 /WithReact-ReduxPkg/node_modules
+/WithReduxToolkit/node_modules
 /.pnp
 .pnp.js
 
